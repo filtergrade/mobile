@@ -8,6 +8,8 @@ mike@sdpdigital.com
 
 This is a proof of concept project for creating a digital photo effects app.  All the code is based off the capabilities' of Brad Larson's GPUImage framework. 
 
+The FilterShowcase example in the iOS directory is the app that had the most development on during our POC phase.  That is the best place to start to see all the new filters that were created by Mike and I.
+
 # GPUImage #
 
 <div style="float: right"><img src="http://sunsetlakesoftware.com/sites/default/files/GPUImageLogo.png" /></div>
